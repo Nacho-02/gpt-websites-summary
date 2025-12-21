@@ -1,6 +1,6 @@
 # ChatGPT 镜像网站完全上手指南【2025 年持续更新】
 
-**最后更新时间：2025-12-11**
+**最后更新时间：2025-12-21**
 
 > 为国内用户系统整理并评测两款可直连的 ChatGPT 镜像网站，支持 ChatGPT-4o / ChatGPT-5.2（以平台对接为准），**无需翻墙、免海外手机号**。附选型标准、上手教程、隐私与安全建议、常见问题、更新机制。
 
@@ -10,7 +10,7 @@
 
 * 🪞 **推荐镜像一： [ChatGPT-Mirrors 镜像系统](http://ChatGPT.shuangrenchengxing.com/chat.php)**
   亮点：对话响应快、支持多模型切换、基础功能开箱即用
-* 🍌 **推荐镜像二： [大可 AI 镜像版](https://banana.dk82.com/chatgpt-chinese-site.html#mirror)**
+* 🍌 **推荐镜像二： [大可 AI 镜像版](https://chat.gptmirrors.com/china-site.html)**
   亮点：移动端优化、支持账号登录与历史同步、功能拓展友好
 
 > ⚠️ 温馨提示：使用任何镜像站前，请确认为 **HTTPS**（地址栏小锁标识），并避免输入敏感个人信息或公司机密。
